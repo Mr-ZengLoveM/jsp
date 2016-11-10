@@ -1,0 +1,6 @@
+王丹莉：4个JSP页面：321P的bottom,337P的addCS,338P的addCSCheck,345P的addStaff；草图8-12---8-17；数据库关系图  
+
+丁茜：4个JSP界面：320P的top，327P的updateClientCheck,329P的deleteClient,336P的lookCS；草图8-4---8-11；企业管理系统项目分析
+
+曾侑皓（组长）：其余全部
+
